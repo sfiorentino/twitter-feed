@@ -5,7 +5,7 @@ box:
     - $PORT
 
 #Build our application using Maven, just as we always have
-## test
+## retest
 build:
   steps:
     - install-packages:
